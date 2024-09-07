@@ -1,6 +1,8 @@
 # glmreg
 Fit a GLM with lasso (or elastic net), snet or mnet regularization Use glmreg With (In) R Software
 
+https://www.youtube.com/watch?v=qqf1iGf6dZc
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
